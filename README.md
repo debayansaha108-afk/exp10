@@ -1,4 +1,4 @@
-# Experiment 9 – Implement Launcher Icon in Android Studio
+# Experiment 10 – Implement Launcher Icon in Android Studio
 
 📌 **Description**
 This experiment is developed using Android Studio as part of the Mobile Application Development Lab. It demonstrates the implementation and customization of an Android application launcher icon using XML drawable resources.
@@ -64,4 +64,6 @@ exp9/
 ```
 
 📸 **Output**
-*(Screenshots to be added here)*
+
+https://github.com/user-attachments/assets/fb6dffaa-32d8-46a8-b180-3d542f8f3d9c
+
