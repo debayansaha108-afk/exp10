@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center"
+    android:background="?android:attr/colorBackground">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contacts Manager"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="40dp" />
+
+    <Button
+        android:id="@+id/btnAddContact"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Add Contact"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnViewContacts"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="View Contacts"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnManageContact"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Update/Delete Contact"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnPickContact"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Pick Contact (Android 17+)" />
+
+</LinearLayout>
